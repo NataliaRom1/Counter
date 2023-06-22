@@ -14,7 +14,7 @@
 
 ## **Ссылка на сайт**
 
-https://nataliarom1.github.io/mesto/
+https://nataliarom1.github.io/counter/
 
 ## **Автор**
 
