@@ -1,4 +1,4 @@
-# [Counter] (https://nataliarom1.github.io/counter/)
+# [Counter](https://nataliarom1.github.io/counter/)
 
 Мини-проект Счетчик. Он увеличивает, уменьшает, сбрасывает значение счетчика при нажатии на кнопку.
 
