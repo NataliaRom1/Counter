@@ -1,4 +1,4 @@
-# Counter
+# Counter [https://nataliarom1.github.io/counter/]
 
 ## **Описание**
 
